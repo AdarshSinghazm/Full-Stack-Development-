@@ -1,5 +1,4 @@
-# Git & GitHub — From Zero to Job Ready
-### Written in plain english, no fancy words
+# Git & GitHub —
 
 ---
 
